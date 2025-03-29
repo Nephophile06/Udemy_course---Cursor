@@ -1,0 +1,1 @@
+You can use anything. We are going to choose Typescript. Because, it has type definitions, which is much easier to work with large language models for coding. Just because, sometimes they make a mistake, you can immediately spot it based on the types, as opposed to dynamically typed languages like Python or R.
